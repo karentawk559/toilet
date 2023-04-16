@@ -1,0 +1,11 @@
+Model Information:
+* title:	Shower Room (WIP)
+* source:	https://sketchfab.com/3d-models/shower-room-wip-10dcb2fc74754056b9461ce9e4a7a50b
+* author:	EwanLejkowski (https://sketchfab.com/EwanLejkowski)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Shower Room (WIP)" (https://sketchfab.com/3d-models/shower-room-wip-10dcb2fc74754056b9461ce9e4a7a50b) by EwanLejkowski (https://sketchfab.com/EwanLejkowski) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
